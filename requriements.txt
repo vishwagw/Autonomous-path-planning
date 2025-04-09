@@ -1,0 +1,6 @@
+# Following requirements needs to be satisfied to use the program properly.
+
+1. Python 3x
+2. numpy
+3. cv2 
+4. 
