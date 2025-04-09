@@ -3,7 +3,9 @@ Please run following cmd lines in your terminal for usage:
 # running the test program using footage:
 python test_detector.py --video in1.mp4
 
+# for model 2:
 python test_detector_model2.py --video in1.mp4
 
+# for advanced detector model:
 python advanced_detector.py --video in1.mp4
 
